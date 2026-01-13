@@ -3,7 +3,7 @@ using Backend.Models;
 using Npgsql;
 
 namespace Backend.Controllers;
-gf
+
 [ApiController]
 [Route("api/[controller]")]
 public class TestController : ControllerBase
